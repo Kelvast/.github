@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://kelvast.com/logo.png" alt="Kelvast" width="120" />
+  <img src="https://raw.githubusercontent.com/Kelvast/landing/main/public/logo.svg" alt="Kelvast" width="120" />
 </p>
 
 <h1 align="center">Kelvast</h1>
@@ -29,9 +29,9 @@ Kelvast is a browser-based MMORPG — a living, persistent world where your adve
 
 | Repository | Description | Status |
 |------------|-------------|--------|
-| `kelvast/game` | Core game client (TypeScript, Babylon.js) | 🔨 In development |
+| `kelvast/client` | Core game client (TypeScript, Babylon.js) | 🔨 In development |
 | `kelvast/server` | Game server & WebSocket infrastructure | 🔨 In development |
-| `kelvast/web` | Marketing site & landing page | 🔨 In development |
+| `kelvast/landing` | Marketing site & landing page | 🔨 In development |
 
 ***
 
