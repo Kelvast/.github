@@ -30,8 +30,9 @@ Kelvast is a browser-based MMORPG — a living, persistent world where your adve
 | Repository | Description | Status |
 |------------|-------------|--------|
 | `kelvast/client` | Core game client (TypeScript, Babylon.js) | 🔨 In development |
-| `kelvast/server` | Game server & WebSocket infrastructure | 🔨 In development |
-| `kelvast/landing` | Marketing site & landing page | 🔨 In development |
+| `kelvast/server` | Game server & WebSocket infrastructure (Rust, Tokio) | 🔨 In development |
+| `kelvast/frontend` | Web UI — login, lobby, account pages (Next.js, React) | 🔨 In development |
+| `kelvast/backend` | Auth Lambdas, HTTP API, AWS infra (Node.js, SST, DynamoDB) | 🔨 In development |
 
 ***
 
